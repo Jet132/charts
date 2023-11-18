@@ -3,7 +3,7 @@ appVersion: "nightly-2.0.0.289"
 dependencies:
   - name: common
     repository: https://library-charts.truecharts.org
-    version: 14.3.5
+    version: 14.5.0
 deprecated: false
 description: An adult media thingy.
 home: https://truecharts.org/charts/stable/whisparr
@@ -22,7 +22,7 @@ sources:
   - https://github.com/truecharts/charts/tree/master/charts/stable/whisparr
   - https://github.com/onedr0p/containers/tree/main/apps/whisparr
 type: application
-version: 6.0.0
+version: 6.0.1
 annotations:
   truecharts.org/SCALE-support: "true"
   truecharts.org/category: Downloaders
